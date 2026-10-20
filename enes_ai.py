@@ -11,13 +11,13 @@ Original file is located at
 
 
 
-!pip install -q translators
-! pip install -q folium
-! pip install -q geopy
-! pip install -q g4f curl_cffi
+pip install -q translators
+pip install -q folium
+pip install -q geopy
+pip install -q g4f curl_cffi
 
-!pip install qrcode[pil] -q
-!pip install -q gradio
+pip install qrcode[pil] -q
+pip install -q gradio
 
 import textwrap
 import gradio as gr
